@@ -1,0 +1,25 @@
+body{
+  margin:0;
+  padding: 0;
+  width:100%;
+  font-size:100%;
+  background: url(assets/freedom.jpg);
+  background-size: cover;
+  text-align: center;
+  }
+#quote{
+  font-family:Arial, sans-serif;
+  color: gray;
+  font-size: 2.5rem;
+  font-style: normal;
+  font-weight: 100;
+  margin-top: 190px;
+  margin-left: 100px;
+  margin-right: 100px;
+  }
+#author{
+  text-align: center;
+  color: grey;
+  font-size: 1.5rem;
+  font-style: italic;
+}
